@@ -3,7 +3,7 @@ O projeto realizado é uma página para a equipe Social Connect. O site consiste
 
 # Tecnologias utilizadas
 
-As tecnologias utilizadas para a realização do projeto foram HTML e CSS, onde a maior parte foi HTML para a estruturação do site e CSS para sua estilização
+As tecnologias utilizadas para a realização do projeto foram <b>HTML</b> e <b>CSS</b>, onde a maior parte foi HTML para a estruturação do site e CSS para sua estilização
 
 # Integrantes
 
