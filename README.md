@@ -7,6 +7,6 @@ As tecnologias utilizadas para a realização do projeto foram HTML e CSS, onde 
 
 # Integrantes
 
-Os integrantes do grupo são: Pedro Henrique Lamin Rodrigues
-Lucas Santana
+Os integrantes do grupo são: Pedro Henrique Lamin Rodrigues<br>
+Lucas Santana<br>
 Leonardo
